@@ -19,3 +19,5 @@
   
 ※ 본 프로젝트는 OpenGL/GLUT 기반으로 실행 환경 구성이 복잡하여,
 실행보다는 구현 방식과 코드 구조를 중심으로 공유합니다.
+
+[![Demo Video](https://img.youtube.com/vi/X7cD-0UTx-k/0.jpg)](https://youtu.be/X7cD-0UTx-k)
